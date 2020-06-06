@@ -1,0 +1,383 @@
+body{
+    text-decoration: none;
+}
+.order:hover{
+    text-decoration: none;
+    color:white;
+    
+}
+.card{
+    overflow: hidden;
+    
+
+}
+
+
+.text1{
+    margin-top: 40px;
+}
+.ready1{
+ 
+    width:400px;
+    height:100;
+    text-align: left;
+    font-size: 20px;
+    text-align: left;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+
+    
+    padding-right: 40px;
+    font-family: Delius Swash Caps;
+    
+    }
+body{
+    overflow-x: hidden;
+}
+map{
+    height:200px;
+}
+.nug{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    
+}
+
+.big{
+    background-color: whitesmoke;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    padding-left:30px;
+}
+
+
+.hi{
+    font-family: Delius Swash Caps;
+    color: rgb(97, 39, 57);
+    font-style: bold;
+    text-align: left;
+    font-size: 40px;
+    
+}
+.hi1{
+    font-family: Delius Swash Caps;
+    color: rgb(97, 39, 57);
+    font-style: bold;
+    
+    text-align: justify;
+    
+}
+.view{
+    z-index: -1;
+    width: 1000px;
+    height: 600px;
+    margin-left: 200px;
+}
+.review{
+    font-size: 40px;
+}
+.one2{
+    background-color: yellowgreen;
+    height:250px;
+    padding: 80px;
+    width: 100%;
+  
+    
+    text-align: center;
+    
+
+}
+
+.one p{
+    font-size: 25px;
+    color:whitesmoke;
+    padding-top:20px;
+    font-family: Delius Swash Caps;
+}
+.copy{
+    width:100%;
+    height:40px;
+    background-color:rgb(202, 22, 22);
+    padding-left:30px;
+    padding-top:10px;
+    
+    color: whitesmoke;
+}
+.inner{
+    overflow:hidden;
+    margin-top:30px;
+    margin-left: 0px;
+
+}
+.part ul li{
+    display: inline;
+    padding-left: 10px;
+}
+.gallery h1{
+    font-family: Delius Swash Caps;
+    color: rgb(97, 39, 57);
+    font-style: bold;
+    
+
+}
+.inner img{
+    transition: all 1.5s ease;
+
+}
+.contact{
+    padding-left:40px;
+}
+.inner:hover img{
+    transform:scale(1.5);
+}
+.w-100 {
+    width: 50% !important;
+    height: 60vh;
+  }
+.carousel {
+    width:940px;
+    margin:40px;
+    margin-left:210px;
+  }
+.comment{
+    background-color: whitesmoke;
+}
+.gallery{
+    background-color: whitesmoke;
+}
+.comment h1{
+    font-family: Delius Swash Caps;
+    color: rgb(97, 39, 57);
+    font-style: bold;
+}
+.aboutus{
+
+    margin: 30px;
+    
+    padding-right: 20px;
+  
+}
+.aboutus img{
+    
+}
+.about h1{
+    font-family:  Bubble One;
+
+}
+.aboutus h2 {
+    font-family: Delius Swash Caps;
+    padding-left: 10px;
+}
+h1 {
+    font-family: Sofia;
+}
+.tz-gallery img{
+    height:300px;
+    width:400px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.con1 {
+    
+    
+    color: whitesmoke;
+    background-color:rgb(34, 25, 25);
+    padding:10px;
+
+}
+
+.navbar{
+    background-color: whitesmoke !important;
+}
+.abc h3{
+    color:rgb(97, 39, 57);
+    font-family: Delius Swash Caps;
+}
+.a{
+    padding: 0;
+    background-color: yellowgreen;
+}
+}
+}
+.ab{
+ 
+    
+    padding-top: 30px;
+    margin-left: 30px;
+}
+.about{
+    display:flex;
+    flex-wrap: wrap;
+}
+@media only screen and (max-width:320px){
+    .hung{
+        width:100%;
+        height:60%
+    }
+}
+
+@media only screen and (max-width:768px){
+    .hung{
+        width:100%;
+        height: 60%;
+    }
+}
+
+@media only screen and (max-width:992px){
+    .hung{
+        width: 100%;
+        height: 60%;
+    }
+
+    @media only screen and (max-width:320px){
+        .inner{
+            width:100%;
+            height:100%;
+            margin-left:40px;
+            margin-right: 40px;
+        }
+    }
+    
+    @media only screen and (max-width:768px){
+        .inner{
+            width:100%;
+            height: 100%;
+            margin-left: 20px;
+            margin-right: 40px;
+        }
+    }
+    
+    @media only screen and (max-width:992px){
+        .inner{
+            width: 100%;
+            height: 100%;
+            margin-left: 20px;
+            margin-right: 40px;
+        }
+       
+        @media only screen and (max-width:320px){
+            .carousel{
+                width:100%;
+                height:40%;
+                padding:0;
+                margin:0;
+            }
+        }
+        
+        @media only screen and (max-width:768px){
+            .carousel{
+                width:100%;
+                height: 50%;
+                padding:0;
+                margin:0;
+            }
+        }
+        
+        @media only screen and (max-width:992px){
+            .carousel{
+                width: 100%;
+                height: 60%;
+                padding:0;
+                margin:0;
+            }
+    
+.end .foot a i{
+    font-size:40px;
+}
+/* Style inputs */
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  /* Style the container/contact section */
+  .container {
+    border-radius: 
+    background-color: 
+    padding: 
+  }
+  
+  /* Create two columns that float next to eachother */
+  .column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column, input[type=submit] {
+      width: 100%;
+      margin-top: 0;
+    }
+  }
+.menu1{
+    margin-top: 20px;
+}
+@media only screen and (max-width:320px){
+    .big{
+        padding:0px;
+        padding-top: 40px;
+        margin: 0;
+    }
+}
+
+@media only screen and (max-width:768px){
+    .big{
+        padding:0px;
+        padding-top: 20px;
+    }
+}
+}
+
+@media only screen and (max-width:992px){
+    ..big{
+        padding:0px;
+        padding-top: 20px;
+    }
+}
+@media only screen and (max-width:320px){
+    .nug{
+        width:200px;
+        height:100px;
+    }
+}
+
+@media only screen and (max-width:768px){
+    .nug{
+        padding:0px;
+        width:300px;
+        height:200px;
+    }
+}
+}
+
+@media only screen and (max-width:992px){
+    .nug{
+        padding:0px;
+    }
+}
